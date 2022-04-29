@@ -1,0 +1,1 @@
+"""něco o prvním projektu"""
